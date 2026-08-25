@@ -1,0 +1,15 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+["params.author"]
+name = "Gabriel Marcussen"
+bio = "Velkommen til min portfolio. Den indeholder projekter jeg har været med til at lave fra 2. semester på Datamatiker studiet på Ehvervsakademi København i Lyngby"
