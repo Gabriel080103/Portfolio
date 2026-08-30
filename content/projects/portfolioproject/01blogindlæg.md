@@ -7,14 +7,6 @@ tags:
   - Hugo
   - Blowfish
   - Portfolio
-
-showAuthor: true
-showDate: true
-showReadingTime: true
-showTableOfContents: true
-showTaxonomies: true
-showWordCount: true
-showComments: false
 ---
 
 Jeg har i løbet af ugen arbejdet med at sætte min portfolio-hjemmeside op, og nu har jeg gjort den klar til at skrive mit første blogindlæg.

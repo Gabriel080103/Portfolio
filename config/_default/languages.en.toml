@@ -1,12 +1,12 @@
 disabled = false
-locale = "en"
+locale = "da"
 label = "English"
 weight = 1
 title = "Blowfish"
 
 [params]
-displayName = "EN"
-isoCode = "en"
+displayName = "DA"
+isoCode = "da"
 rtl = false
 dateFormat = "2 January 2006"
 
