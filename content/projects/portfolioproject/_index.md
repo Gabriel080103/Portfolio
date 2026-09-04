@@ -11,3 +11,5 @@ Dette er mit portfolio-projekt, hvor jeg dokumenterer min udvikling undervejs.
 ## Blogindlæg
 
 * [Mit første blogindlæg](01blogindlæg.md/)
+* [Opsætning af projekt til fitness app](02blogindlæg.md/)
+
