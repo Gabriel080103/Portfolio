@@ -6,12 +6,12 @@ date: 2026-09-11
 draft: false
 tags:
 
-* API
-* Open Food Facts
-* DTO
-* Callable
-* Future
-* Kalorie tracking
+- API
+- Open Food Facts
+- DTO
+- Callable
+- Future
+- Kalorie tracking
 
 ---
 
@@ -67,7 +67,7 @@ Jeg har oprettet en `FoodSearchService`, som håndterer den asynkrone del af sø
 
 Strukturen er derfor blevet:
 
-```text
+text
 Main
  ↓
 FoodSearchService
@@ -79,7 +79,7 @@ FoodAPI
 Open Food Facts API
  ↓
 FoodDTO
-```
+
 
 Jeg har valgt at gøre dette nu, selvom frontend først kommer senere, fordi det gør projektet klarere opdelt og giver mulighed for senere at lave API-kald uden at blokere frontend.
 
@@ -96,9 +96,9 @@ Jeg har blandt andet arbejdet med:
 * Håndtering af HTTP-fejl
 * Retry-logik
 * Produkt-søgning og scoring
-* Callable
-* Future
-* ExecutorService
+* `Callable`
+* `Future`
+* `ExecutorService`
 * Håndtering af manglende data
 
 Jeg har også fået en bedre forståelse for, at API-data ikke altid er komplette eller præcis som forventet, og at programmet derfor skal kunne håndtere manglende værdier og fejl fra API'et.
