@@ -96,9 +96,9 @@ Jeg har blandt andet arbejdet med:
 * Håndtering af HTTP-fejl
 * Retry-logik
 * Produkt-søgning og scoring
-* `Callable`
-* `Future`
-* `ExecutorService`
+* Callable
+* Future
+* ExecutorService
 * Håndtering af manglende data
 
 Jeg har også fået en bedre forståelse for, at API-data ikke altid er komplette eller præcis som forventet, og at programmet derfor skal kunne håndtere manglende værdier og fejl fra API'et.
